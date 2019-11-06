@@ -1,2 +1,2 @@
 # Unity-Scripts
-All purpose unity scripts
+All purpose useful unity scripts
