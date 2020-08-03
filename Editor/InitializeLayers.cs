@@ -14,7 +14,7 @@ public class InitializeLayers : Editor
         SerializedProperty layersProp = tagManager.FindProperty("layers");
 
         // Layers to add
-        string[] layersToAdd = { "Ground" };
+        string[] layersToAdd = { "Ground", "Wall" };
 
         // Check if layers are not already present & add if not
         foreach (string layerToAdd in layersToAdd)
